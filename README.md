@@ -20,19 +20,6 @@ pnpm i
 pnpm dev
 ```
 
-## Cross-framework support
-
-While Novel is built for React, we also have a few community-maintained packages for non-React frameworks:
-
-- Svelte: https://novel.sh/svelte
-- Vue: https://novel.sh/vue
-
-## VSCode Extension
-
-Thanks to @bennykok, Novel also has a VSCode Extension: https://novel.sh/vscode
-
-https://github.com/steven-tey/novel/assets/28986134/58ebf7e3-cdb3-43df-878b-119e304f7373
-
 ## Tech Stack
 
 Novel is built on the following stack:
@@ -44,14 +31,3 @@ Novel is built on the following stack:
 - [Vercel](https://vercel.com) – deployments
 - [TailwindCSS](https://tailwindcss.com/) – styles
 - [Cal Sans](https://github.com/calcom/font) – font
-
-## Contributing
-
-Here's how you can contribute:
-
-- [Open an issue](https://github.com/steven-tey/novel/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/steven-tey/novel/pull) to add new features/make quality-of-life improvements/fix bugs.
-
-## License
-
-Licensed under the [Apache-2.0 license](https://github.com/steven-tey/novel/blob/main/LICENSE).
