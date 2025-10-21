@@ -1,9 +1,3 @@
-## Deploy Your Own
-
-You can deploy your own version of Novel to Vercel with one click:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://stey.me/novel-deploy)
-
 ## Setting Up Locally
 
 To set up Novel locally, you'll need to clone the repository and set up the following environment variables:
